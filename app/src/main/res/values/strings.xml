@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="temperature">Temperature</string>
+    <string name="date">Date</string>
+    <string name="condition">Condition</string>
+    <string name="details">Details</string>
+    <string name="last_updated">Last updated: --</string>
+    <string name="back_to_main">Back to Main</string>
+</resources>
